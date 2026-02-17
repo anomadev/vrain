@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques/5.6.1 Zero-Shot Prompting.md",
+                "file": "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques/5.6.2 One-Shot & Few-Shot Prompting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.6.1 Zero-Shot Prompting"
+              "title": "5.6.2 One-Shot & Few-Shot Prompting"
             }
           },
           {
@@ -182,9 +182,9 @@
   },
   "active": "efc25d9acc5b10a0",
   "lastOpenFiles": [
+    "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques/5.6.1 Zero-Shot Prompting.md",
     "Software Engineer/5.0 Prompt Engineering/5.5 Structured Outputs/5.5.0 Structured Outputs.md",
     "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques/5.6.2 One-Shot & Few-Shot Prompting.md",
-    "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques/5.6.1 Zero-Shot Prompting.md",
     "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques",
     "Software Engineer/5.0 Prompt Engineering/5.4 Repetition Penalties/5.4.2 Presence Penalty.md",
     "Software Engineer/5.0 Prompt Engineering/5.5 Structured Outputs",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques/5.6.4 Role Prompting.md",
+                "file": "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques/5.6.5 Contextual Prompting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.6.4 Role Prompting"
+              "title": "5.6.5 Contextual Prompting"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "1cf5370a114f63bb",
   "lastOpenFiles": [
-    "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques/5.6.3 System Prompting.md",
     "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques/5.6.4 Role Prompting.md",
+    "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques/5.6.5 Contextual Prompting.md",
+    "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques/5.6.3 System Prompting.md",
     "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques/5.6.2 One-Shot & Few-Shot Prompting.md",
     "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques/5.6.1 Zero-Shot Prompting.md",
     "Software Engineer/5.0 Prompt Engineering/5.5 Structured Outputs/5.5.0 Structured Outputs.md",
@@ -206,7 +207,6 @@
     "EngageGen/Plan de Proyecto.md",
     "EngageGen",
     "Software Engineer/2.0 Core Development/2.6 API Design/01 Learn the Basics/1.09 HTTP Caching.md",
-    "Software Engineer/2.0 Core Development/2.6 API Design/01 Learn the Basics/1.08 CORS.md",
-    "Software Engineer/2.0 Core Development/2.1 JavaScript/Synapt.md"
+    "Software Engineer/2.0 Core Development/2.6 API Design/01 Learn the Basics/1.08 CORS.md"
   ]
 }

@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "fc4483f6473e519f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba0a02a316ba426e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efc25d9acc5b10a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques/5.6.1 Zero-Shot Prompting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.6.1 Zero-Shot Prompting"
+            }
+          },
+          {
+            "id": "1cf5370a114f63bb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e0115abf71f695c",
+    "type": "split",
+    "children": [
+      {
+        "id": "55e081d1d276c796",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2191eb6c3600dbf5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "73722726aa7ac8f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fa8d9f6a4cb770c0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 333.5
+  },
+  "right": {
+    "id": "7a18b1f142eed1ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b0a94c8b1518cde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66b0a709d759b6f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "EngageGen/Plan de Proyecto.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Plan de Proyecto"
+            }
+          },
+          {
+            "id": "99faafad1af4a6ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "EngageGen/Plan de Proyecto.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Plan de Proyecto"
+            }
+          },
+          {
+            "id": "962614278a25d21c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a7c977599fb071f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "EngageGen/Plan de Proyecto.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Plan de Proyecto"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "efc25d9acc5b10a0",
+  "lastOpenFiles": [
+    "Software Engineer/5.0 Prompt Engineering/5.5 Structured Outputs/5.5.0 Structured Outputs.md",
+    "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques/5.6.2 One-Shot & Few-Shot Prompting.md",
+    "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques/5.6.1 Zero-Shot Prompting.md",
+    "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques",
+    "Software Engineer/5.0 Prompt Engineering/5.4 Repetition Penalties/5.4.2 Presence Penalty.md",
+    "Software Engineer/5.0 Prompt Engineering/5.5 Structured Outputs",
+    "Software Engineer/5.0 Prompt Engineering/5.4 Repetition Penalties/5.4.1 Frequency Penalty.md",
+    "Software Engineer/5.0 Prompt Engineering/5.4 Repetition Penalties/5.4.0 Repetition Penalties.md",
+    "Software Engineer/5.0 Prompt Engineering/5.3 Output Control/5.3.2 Stop Sequences.md",
+    "Software Engineer/5.0 Prompt Engineering/5.4 Repetition Penalties",
+    "Software Engineer/5.0 Prompt Engineering/5.3 Output Control/5.3.1 Max Tokens.md",
+    "Software Engineer/5.0 Prompt Engineering/5.3 Output Control/5.3.0 Output Control.md",
+    "Software Engineer/5.0 Prompt Engineering/5.3 Output Control",
+    "Software Engineer/5.0 Prompt Engineering/5.2 Sampling Parameters/5.2.4 Top-P.md",
+    "Software Engineer/5.0 Prompt Engineering/5.2 Sampling Parameters/5.2.3 Top-K.md",
+    "Software Engineer/5.0 Prompt Engineering/5.2 Sampling Parameters/5.2.1 Temperature.md",
+    "Software Engineer/2.0 Core Development/2.4 PHP/03 Arrays/desktop.ini",
+    "Software Engineer/5.0 Prompt Engineering/5.1 Introduction/5.1.5 Common Terminology.md",
+    "Software Engineer/5.0 Prompt Engineering/5.1 Introduction/5.1.4 Models offered.md",
+    "Software Engineer/5.0 Prompt Engineering/5.2 Sampling Parameters",
+    "Software Engineer/5.0 Prompt Engineering/5.1 Introduction/5.1.3 What is Prompt Engineering.md",
+    "Software Engineer/5.0 Prompt Engineering/5.1 Introduction/5.1.2 What is a Prompt.md",
+    "Software Engineer/5.0 Prompt Engineering/5.1 Introduction/5.1.1 LLMs and how they work.md",
+    "Whalehouse/Domain agnostic general features.md",
+    "Software Engineer/5.0 Prompt Engineering/5.1 Introduction",
+    "Software Engineer/5.0 Prompt Engineering",
+    "Software Engineer/Roadmap SH.md",
+    "Software Engineer/1.0 Fundaments/1.2 Data Structure & Algorithms/1.2.01 Programming Fundamentals.md",
+    "Whalehouse",
+    "EngageGen/Plan de Proyecto.md",
+    "EngageGen",
+    "Software Engineer/2.0 Core Development/2.6 API Design/01 Learn the Basics/1.09 HTTP Caching.md",
+    "Software Engineer/2.0 Core Development/2.6 API Design/01 Learn the Basics/1.08 CORS.md",
+    "Software Engineer/2.0 Core Development/2.1 JavaScript/Synapt.md",
+    "Software Engineer/2.0 Core Development/2.3 Kotlin/Blockode.md",
+    "Software Engineer/2.0 Core Development/2.5 SQL/04 Data Manipulation Languaje/4.8 HAVING.md"
+  ]
+}

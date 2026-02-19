@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques/5.6.10 ReAct Prompting (Reasoning + Acting).md",
+                "file": "Software Engineer/5.0 Prompt Engineering/5.7 Automatic Prompt Engineering/5.7.0 Automatic Prompt Engineering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.6.10 ReAct Prompting (Reasoning + Acting)"
+              "title": "5.7.0 Automatic Prompt Engineering"
             }
           },
           {
@@ -182,8 +182,10 @@
   },
   "active": "1cf5370a114f63bb",
   "lastOpenFiles": [
-    "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques/5.6.9 Tree of Thougths (ToT) Prompting.md",
     "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques/5.6.10 ReAct Prompting (Reasoning + Acting).md",
+    "Software Engineer/5.0 Prompt Engineering/5.7 Automatic Prompt Engineering/5.7.0 Automatic Prompt Engineering.md",
+    "Software Engineer/5.0 Prompt Engineering/5.7 Automatic Prompt Engineering",
+    "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques/5.6.9 Tree of Thougths (ToT) Prompting.md",
     "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques/5.6.8 Self-Consistency Prompting.md",
     "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques/5.6.7 Chain of Thought (CoT) Prompting.md",
     "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques/5.6.6 Step Back Prompting.md",
@@ -213,10 +215,8 @@
     "Software Engineer/5.0 Prompt Engineering/5.1 Introduction/5.1.3 What is Prompt Engineering.md",
     "Software Engineer/5.0 Prompt Engineering/5.1 Introduction/5.1.2 What is a Prompt.md",
     "Software Engineer/5.0 Prompt Engineering/5.1 Introduction/5.1.1 LLMs and how they work.md",
-    "Whalehouse/Domain agnostic general features.md",
     "Software Engineer/5.0 Prompt Engineering/5.1 Introduction",
     "Software Engineer/5.0 Prompt Engineering",
-    "Whalehouse",
-    "EngageGen"
+    "Whalehouse"
   ]
 }

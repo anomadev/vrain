@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineer/5.0 Prompt Engineering/5.8 AI Red Teaming/5.8.0 AI Red Teaming.md",
+                "file": "Software Engineer/5.0 Prompt Engineering/5.9 Improving Reliability/5.9.1 Prompt Debiasing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.8.0 AI Red Teaming"
+              "title": "5.9.1 Prompt Debiasing"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "right": {
     "id": "7a18b1f142eed1ce",
@@ -172,6 +171,8 @@
   },
   "active": "e5bce1656cdb0e49",
   "lastOpenFiles": [
+    "Software Engineer/5.0 Prompt Engineering/5.9 Improving Reliability/5.9.1 Prompt Debiasing.md",
+    "Software Engineer/5.0 Prompt Engineering/5.9 Improving Reliability",
     "Software Engineer/5.0 Prompt Engineering/5.8 AI Red Teaming/5.8.1 Prompting Best Practices.md",
     "Software Engineer/5.0 Prompt Engineering/5.8 AI Red Teaming/5.8.0 AI Red Teaming.md",
     "Software Engineer/5.0 Prompt Engineering/5.7 Automatic Prompt Engineering/5.7.0 Automatic Prompt Engineering.md",
@@ -204,9 +205,7 @@
     "Software Engineer/5.0 Prompt Engineering/5.2 Sampling Parameters/5.2.1 Temperature.md",
     "Software Engineer/2.0 Core Development/2.4 PHP/03 Arrays/desktop.ini",
     "Software Engineer/5.0 Prompt Engineering/5.1 Introduction/5.1.5 Common Terminology.md",
-    "Software Engineer/5.0 Prompt Engineering/5.1 Introduction/5.1.4 Models offered.md",
     "Software Engineer/5.0 Prompt Engineering/5.2 Sampling Parameters",
-    "Software Engineer/5.0 Prompt Engineering/5.1 Introduction",
-    "Software Engineer/5.0 Prompt Engineering"
+    "Software Engineer/5.0 Prompt Engineering/5.1 Introduction"
   ]
 }

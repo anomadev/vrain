@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineer/5.0 Prompt Engineering/5.9 Improving Reliability/5.9.2 Prompt Ensembling.md",
+                "file": "Software Engineer/5.0 Prompt Engineering/5.9 Improving Reliability/5.9.3 LLM Self-Evaluation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.9.2 Prompt Ensembling"
+              "title": "5.9.3 LLM Self-Evaluation"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "right": {
     "id": "7a18b1f142eed1ce",
@@ -171,8 +172,10 @@
   },
   "active": "e5bce1656cdb0e49",
   "lastOpenFiles": [
-    "Software Engineer/5.0 Prompt Engineering/5.9 Improving Reliability/5.9.1 Prompt Debiasing.md",
+    "Software Engineer/Roadmap SH.md",
+    "Software Engineer/5.0 Prompt Engineering/5.9 Improving Reliability/5.9.3 LLM Self-Evaluation.md",
     "Software Engineer/5.0 Prompt Engineering/5.9 Improving Reliability/5.9.2 Prompt Ensembling.md",
+    "Software Engineer/5.0 Prompt Engineering/5.9 Improving Reliability/5.9.1 Prompt Debiasing.md",
     "Software Engineer/5.0 Prompt Engineering/5.9 Improving Reliability",
     "Software Engineer/5.0 Prompt Engineering/5.8 AI Red Teaming/5.8.1 Prompting Best Practices.md",
     "Software Engineer/5.0 Prompt Engineering/5.8 AI Red Teaming/5.8.0 AI Red Teaming.md",
@@ -202,8 +205,6 @@
     "Software Engineer/5.0 Prompt Engineering/5.3 Output Control/5.3.0 Output Control.md",
     "Software Engineer/5.0 Prompt Engineering/5.3 Output Control",
     "Software Engineer/5.0 Prompt Engineering/5.2 Sampling Parameters/5.2.4 Top-P.md",
-    "Software Engineer/5.0 Prompt Engineering/5.2 Sampling Parameters/5.2.3 Top-K.md",
-    "Software Engineer/5.0 Prompt Engineering/5.2 Sampling Parameters/5.2.1 Temperature.md",
     "Software Engineer/2.0 Core Development/2.4 PHP/03 Arrays/desktop.ini",
     "Software Engineer/5.0 Prompt Engineering/5.2 Sampling Parameters",
     "Software Engineer/5.0 Prompt Engineering/5.1 Introduction"

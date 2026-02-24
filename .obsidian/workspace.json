@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineer/6.0 Laravel/6.1 What is Laravel/6.1.1 Why Web Frameworks.md",
+                "file": "Software Engineer/6.0 Laravel/6.1 What is Laravel/6.1.2 Laravel for Full Stack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.1.1 Why Web Frameworks"
+              "title": "6.1.2 Laravel for Full Stack"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "right": {
     "id": "7a18b1f142eed1ce",
@@ -172,8 +171,9 @@
   },
   "active": "e5bce1656cdb0e49",
   "lastOpenFiles": [
-    "Software Engineer/Roadmap SH.md",
     "Software Engineer/6.0 Laravel/6.1 What is Laravel/6.1.1 Why Web Frameworks.md",
+    "Software Engineer/6.0 Laravel/6.1 What is Laravel/6.1.2 Laravel for Full Stack.md",
+    "Software Engineer/Roadmap SH.md",
     "Software Engineer/6.0 Laravel/6.1 What is Laravel",
     "Software Engineer/6.0 Laravel",
     "Software Engineer/2.0 Core Development/2.6 API Design/02 Diferent API Styles/02.2 Simple JSON APIs.md",
@@ -205,7 +205,6 @@
     "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques",
     "Software Engineer/5.0 Prompt Engineering/5.4 Repetition Penalties/5.4.2 Presence Penalty.md",
     "Software Engineer/5.0 Prompt Engineering/5.5 Structured Outputs",
-    "Software Engineer/5.0 Prompt Engineering/5.4 Repetition Penalties/5.4.1 Frequency Penalty.md",
     "Software Engineer/5.0 Prompt Engineering/5.4 Repetition Penalties",
     "Software Engineer/5.0 Prompt Engineering/5.3 Output Control"
   ]

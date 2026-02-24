@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineer/2.0 Core Development/2.6 API Design/02 Diferent API Styles/02.1 RESTful APIs.md",
+                "file": "Software Engineer/6.0 Laravel/6.1 What is Laravel/6.1.1 Why Web Frameworks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02.1 RESTful APIs"
+              "title": "6.1.1 Why Web Frameworks"
             }
           }
         ]
@@ -172,12 +172,16 @@
   },
   "active": "e5bce1656cdb0e49",
   "lastOpenFiles": [
-    "Software Engineer/2.0 Core Development/2.6 API Design/01 Learn the Basics/1.09 HTTP Caching.md",
+    "Software Engineer/Roadmap SH.md",
+    "Software Engineer/6.0 Laravel/6.1 What is Laravel/6.1.1 Why Web Frameworks.md",
+    "Software Engineer/6.0 Laravel/6.1 What is Laravel",
+    "Software Engineer/6.0 Laravel",
+    "Software Engineer/2.0 Core Development/2.6 API Design/02 Diferent API Styles/02.2 Simple JSON APIs.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/02 Diferent API Styles/02.1 RESTful APIs.md",
+    "Software Engineer/2.0 Core Development/2.6 API Design/01 Learn the Basics/1.09 HTTP Caching.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/02 Diferent API Styles",
     "Software Engineer/5.0 Prompt Engineering/5.9 Improving Reliability/5.9.4 Calibrating LLMs.md",
     "Software Engineer/5.0 Prompt Engineering/5.9 Improving Reliability/5.9.3 LLM Self-Evaluation.md",
-    "Software Engineer/Roadmap SH.md",
     "Software Engineer/5.0 Prompt Engineering/5.9 Improving Reliability/5.9.2 Prompt Ensembling.md",
     "Software Engineer/5.0 Prompt Engineering/5.9 Improving Reliability/5.9.1 Prompt Debiasing.md",
     "Software Engineer/5.0 Prompt Engineering/5.9 Improving Reliability",
@@ -202,11 +206,7 @@
     "Software Engineer/5.0 Prompt Engineering/5.4 Repetition Penalties/5.4.2 Presence Penalty.md",
     "Software Engineer/5.0 Prompt Engineering/5.5 Structured Outputs",
     "Software Engineer/5.0 Prompt Engineering/5.4 Repetition Penalties/5.4.1 Frequency Penalty.md",
-    "Software Engineer/5.0 Prompt Engineering/5.4 Repetition Penalties/5.4.0 Repetition Penalties.md",
-    "Software Engineer/5.0 Prompt Engineering/5.3 Output Control/5.3.2 Stop Sequences.md",
     "Software Engineer/5.0 Prompt Engineering/5.4 Repetition Penalties",
-    "Software Engineer/5.0 Prompt Engineering/5.3 Output Control",
-    "Software Engineer/2.0 Core Development/2.4 PHP/03 Arrays/desktop.ini",
-    "Software Engineer/5.0 Prompt Engineering/5.2 Sampling Parameters"
+    "Software Engineer/5.0 Prompt Engineering/5.3 Output Control"
   ]
 }

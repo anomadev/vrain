@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineer/7.0 Vue/7.1 Boostrapping a Project/7.1.1 Create Vue.md",
+                "file": "Software Engineer/6.0 Laravel/6.1 What is Laravel/6.1.3 Laravel for Frontend.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.1.1 Create Vue"
+              "title": "6.1.3 Laravel for Frontend"
             }
           }
         ]
@@ -172,13 +172,21 @@
   },
   "active": "e5bce1656cdb0e49",
   "lastOpenFiles": [
+    "Software Engineer/7.0 Vue/7.2 Components/7.2.6 Attribute Inheritance.md",
+    "Software Engineer/6.0 Laravel/6.1 What is Laravel/6.1.3 Laravel for Frontend.md",
+    "Software Engineer/7.0 Vue/7.2 Components/7.2.5 v-model.md",
+    "Software Engineer/7.0 Vue/7.2 Components/7.2.4 Events.md",
+    "Software Engineer/7.0 Vue/7.2 Components/7.2.3 Props.md",
+    "Software Engineer/7.0 Vue/7.2 Components/7.2.2 Single File Components.md",
+    "Software Engineer/7.0 Vue/7.2 Components/7.2.1 Component Registration.md",
+    "Software Engineer/7.0 Vue/7.1 Boostrapping a Project/7.1.1 Create Vue.md",
+    "Software Engineer/7.0 Vue/7.2 Components",
     "Software Engineer/2.0 Core Development/2.4 PHP/12 Frameworks/Livewire/desktop.ini",
     "Software Engineer/2.0 Core Development/2.4 PHP/12 Frameworks/desktop.ini",
     "Software Engineer/2.0 Core Development/2.5 SQL/03 Data Definition Language/desktop.ini",
     "Software Engineer/2.0 Core Development/2.4 PHP/06 Functions/desktop.ini",
     "Software Engineer/2.0 Core Development/2.6 API Design/01 Learn the Basics/desktop.ini",
     "Software Engineer/6.0 Laravel/6.1 What is Laravel/6.1.2 Laravel for Full Stack.md",
-    "Software Engineer/7.0 Vue/7.1 Boostrapping a Project/7.1.1 Create Vue.md",
     "Software Engineer/7.0 Vue/7.1 Boostrapping a Project",
     "Software Engineer/7.0 Vue",
     "Software Engineer/6.0 Laravel/6.1 What is Laravel/6.1.1 Why Web Frameworks.md",
@@ -188,12 +196,10 @@
     "Software Engineer/2.0 Core Development/2.6 API Design/02 Diferent API Styles/02.2 Simple JSON APIs.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/02 Diferent API Styles/02.1 RESTful APIs.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/01 Learn the Basics/1.09 HTTP Caching.md",
-    "Software Engineer/2.0 Core Development/2.6 API Design/02 Diferent API Styles",
     "Software Engineer/5.0 Prompt Engineering/5.9 Improving Reliability/5.9.4 Calibrating LLMs.md",
     "Software Engineer/5.0 Prompt Engineering/5.9 Improving Reliability/5.9.3 LLM Self-Evaluation.md",
     "Software Engineer/5.0 Prompt Engineering/5.9 Improving Reliability/5.9.2 Prompt Ensembling.md",
     "Software Engineer/5.0 Prompt Engineering/5.9 Improving Reliability/5.9.1 Prompt Debiasing.md",
-    "Software Engineer/5.0 Prompt Engineering/5.9 Improving Reliability",
     "Software Engineer/5.0 Prompt Engineering/5.8 AI Red Teaming/5.8.1 Prompting Best Practices.md",
     "Software Engineer/5.0 Prompt Engineering/5.8 AI Red Teaming/5.8.0 AI Red Teaming.md",
     "Software Engineer/5.0 Prompt Engineering/5.7 Automatic Prompt Engineering/5.7.0 Automatic Prompt Engineering.md",
@@ -201,12 +207,6 @@
     "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques/5.6.10 ReAct Prompting (Reasoning + Acting).md",
     "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques/5.6.9 Tree of Thougths (ToT) Prompting.md",
     "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques/5.6.8 Self-Consistency Prompting.md",
-    "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques/5.6.7 Chain of Thought (CoT) Prompting.md",
-    "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques/5.6.6 Step Back Prompting.md",
-    "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques/5.6.5 Contextual Prompting.md",
-    "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques/5.6.4 Role Prompting.md",
-    "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques/5.6.3 System Prompting.md",
-    "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques/5.6.2 One-Shot & Few-Shot Prompting.md",
-    "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques/5.6.1 Zero-Shot Prompting.md"
+    "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques/5.6.7 Chain of Thought (CoT) Prompting.md"
   ]
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineer/7.0 Vue/7.2 Components/7.2.0 Components.md",
+                "file": "Software Engineer/7.0 Vue/7.2 Components/7.2.1 Component Registration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.2.0 Components"
+              "title": "7.2.1 Component Registration"
             }
           }
         ]
@@ -172,8 +172,8 @@
   },
   "active": "e5bce1656cdb0e49",
   "lastOpenFiles": [
-    "Software Engineer/6.0 Laravel/6.2 Installing Laravel/6.2.1 Laravel Herd.md",
     "Software Engineer/7.0 Vue/7.2 Components/7.2.0 Components.md",
+    "Software Engineer/6.0 Laravel/6.2 Installing Laravel/6.2.1 Laravel Herd.md",
     "Software Engineer/6.0 Laravel/6.2 Installing Laravel",
     "Software Engineer/6.0 Laravel/6.1 What is Laravel/6.1.3 Laravel for Frontend.md",
     "Software Engineer/7.0 Vue/7.2 Components/7.2.6 Attribute Inheritance.md",

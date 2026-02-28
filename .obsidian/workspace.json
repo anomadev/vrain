@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineer/7.0 Vue/7.2 Components/7.2.2 Single File Components.md",
+                "file": "Software Engineer/6.0 Laravel/6.3 Create a new project/6.3.0 Creating a New Laravel Project.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.2.2 Single File Components"
+              "title": "6.3.0 Creating a New Laravel Project"
             }
           }
         ]
@@ -172,6 +172,9 @@
   },
   "active": "e5bce1656cdb0e49",
   "lastOpenFiles": [
+    "Software Engineer/7.0 Vue/7.2 Components/7.2.2 Single File Components.md",
+    "Software Engineer/6.0 Laravel/6.3 Create a new project/6.3.0 Creating a New Laravel Project.md",
+    "Software Engineer/6.0 Laravel/6.3 Create a new project",
     "Software Engineer/7.0 Vue/7.2 Components/7.2.1 Component Registration.md",
     "Software Engineer/7.0 Vue/7.2 Components/7.2.0 Components.md",
     "Software Engineer/6.0 Laravel/6.2 Installing Laravel/6.2.1 Laravel Herd.md",
@@ -181,7 +184,6 @@
     "Software Engineer/7.0 Vue/7.2 Components/7.2.5 v-model.md",
     "Software Engineer/7.0 Vue/7.2 Components/7.2.4 Events.md",
     "Software Engineer/7.0 Vue/7.2 Components/7.2.3 Props.md",
-    "Software Engineer/7.0 Vue/7.2 Components/7.2.2 Single File Components.md",
     "Software Engineer/7.0 Vue/7.1 Boostrapping a Project/7.1.1 Create Vue.md",
     "Software Engineer/7.0 Vue/7.2 Components",
     "Software Engineer/2.0 Core Development/2.4 PHP/12 Frameworks/Livewire/desktop.ini",
@@ -194,7 +196,6 @@
     "Software Engineer/7.0 Vue",
     "Software Engineer/6.0 Laravel/6.1 What is Laravel/6.1.1 Why Web Frameworks.md",
     "Software Engineer/Roadmap SH.md",
-    "Software Engineer/6.0 Laravel/6.1 What is Laravel",
     "Software Engineer/2.0 Core Development/2.6 API Design/02 Diferent API Styles/02.2 Simple JSON APIs.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/02 Diferent API Styles/02.1 RESTful APIs.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/01 Learn the Basics/1.09 HTTP Caching.md",
@@ -206,7 +207,6 @@
     "Software Engineer/5.0 Prompt Engineering/5.8 AI Red Teaming/5.8.0 AI Red Teaming.md",
     "Software Engineer/5.0 Prompt Engineering/5.7 Automatic Prompt Engineering/5.7.0 Automatic Prompt Engineering.md",
     "Software Engineer/5.0 Prompt Engineering/Untitled.md",
-    "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques/5.6.10 ReAct Prompting (Reasoning + Acting).md",
-    "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques/5.6.9 Tree of Thougths (ToT) Prompting.md"
+    "Software Engineer/5.0 Prompt Engineering/5.6 Prompting Techniques/5.6.10 ReAct Prompting (Reasoning + Acting).md"
   ]
 }

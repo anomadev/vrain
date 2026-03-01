@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineer/2.0 Core Development/2.6 API Design/02 Diferent API Styles/02.3 SOAP APIs.md",
+                "file": "Software Engineer/2.0 Core Development/2.6 API Design/02 Diferent API Styles/02.5 gRPC APIs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02.3 SOAP APIs"
+              "title": "02.5 gRPC APIs"
             }
           }
         ]
@@ -172,8 +172,10 @@
   },
   "active": "e5bce1656cdb0e49",
   "lastOpenFiles": [
-    "Software Engineer/6.0 Laravel/6.4 Starter Kits/6.4.0 Starter Kits.md",
+    "Software Engineer/2.0 Core Development/2.6 API Design/02 Diferent API Styles/02.4 GraphQL APIs.md",
+    "Software Engineer/2.0 Core Development/2.6 API Design/02 Diferent API Styles/02.5 gRPC APIs.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/02 Diferent API Styles/02.3 SOAP APIs.md",
+    "Software Engineer/6.0 Laravel/6.4 Starter Kits/6.4.0 Starter Kits.md",
     "Software Engineer/6.0 Laravel/6.3 Create a new project/6.3.0 Creating a New Laravel Project.md",
     "Software Engineer/6.0 Laravel/6.4 Starter Kits",
     "Software Engineer/7.0 Vue/7.2 Components/7.2.2 Single File Components.md",
@@ -205,8 +207,6 @@
     "Software Engineer/5.0 Prompt Engineering/5.9 Improving Reliability/5.9.3 LLM Self-Evaluation.md",
     "Software Engineer/5.0 Prompt Engineering/5.9 Improving Reliability/5.9.2 Prompt Ensembling.md",
     "Software Engineer/5.0 Prompt Engineering/5.9 Improving Reliability/5.9.1 Prompt Debiasing.md",
-    "Software Engineer/5.0 Prompt Engineering/5.8 AI Red Teaming/5.8.1 Prompting Best Practices.md",
-    "Software Engineer/5.0 Prompt Engineering/5.8 AI Red Teaming/5.8.0 AI Red Teaming.md",
-    "Software Engineer/5.0 Prompt Engineering/5.7 Automatic Prompt Engineering/5.7.0 Automatic Prompt Engineering.md"
+    "Software Engineer/5.0 Prompt Engineering/5.8 AI Red Teaming/5.8.1 Prompting Best Practices.md"
   ]
 }

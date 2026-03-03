@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineer/7.0 Vue/7.2 Components/7.2.3 Props.md",
+                "file": "Software Engineer/7.0 Vue/7.2 Components/7.2.4 Events.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.2.3 Props"
+              "title": "7.2.4 Events"
             }
           }
         ]
@@ -172,6 +172,7 @@
   },
   "active": "e5bce1656cdb0e49",
   "lastOpenFiles": [
+    "Software Engineer/7.0 Vue/7.2 Components/7.2.3 Props.md",
     "Software Engineer/6.0 Laravel/6.4 Starter Kits/6.4.4 Jetstream.md",
     "Software Engineer/6.0 Laravel/6.4 Starter Kits/6.4.3 Breeze.md",
     "Software Engineer/6.0 Laravel/6.4 Starter Kits/6.4.2 Livewire.md",
@@ -193,7 +194,6 @@
     "Software Engineer/7.0 Vue/7.2 Components/7.2.6 Attribute Inheritance.md",
     "Software Engineer/7.0 Vue/7.2 Components/7.2.5 v-model.md",
     "Software Engineer/7.0 Vue/7.2 Components/7.2.4 Events.md",
-    "Software Engineer/7.0 Vue/7.2 Components/7.2.3 Props.md",
     "Software Engineer/7.0 Vue/7.1 Boostrapping a Project/7.1.1 Create Vue.md",
     "Software Engineer/7.0 Vue/7.2 Components",
     "Software Engineer/2.0 Core Development/2.4 PHP/12 Frameworks/Livewire/desktop.ini",

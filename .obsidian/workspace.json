@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineer/7.0 Vue/7.2 Components/7.2.6 Attribute Inheritance.md",
+                "file": "Software Engineer/6.0 Laravel/6.6 Project Structure/6.6.2 Bootstrap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.2.6 Attribute Inheritance"
+              "title": "6.6.2 Bootstrap"
             }
           }
         ]
@@ -172,6 +172,9 @@
   },
   "active": "e5bce1656cdb0e49",
   "lastOpenFiles": [
+    "Software Engineer/7.0 Vue/7.2 Components/7.2.6 Attribute Inheritance.md",
+    "Software Engineer/6.0 Laravel/6.6 Project Structure/6.6.2 Bootstrap.md",
+    "Software Engineer/6.0 Laravel/6.6 Project Structure/6.6.2 Bootstrap",
     "Software Engineer/7.0 Vue/7.2 Components/7.2.5 v-model.md",
     "Software Engineer/6.0 Laravel/6.6 Project Structure/6.6.1 App Directory.md",
     "Software Engineer/6.0 Laravel/6.5 Request-Response Flow/6.5.0 Request-Response Flow.md",
@@ -197,16 +200,13 @@
     "Software Engineer/6.0 Laravel/6.2 Installing Laravel/6.2.1 Laravel Herd.md",
     "Software Engineer/6.0 Laravel/6.2 Installing Laravel",
     "Software Engineer/6.0 Laravel/6.1 What is Laravel/6.1.3 Laravel for Frontend.md",
-    "Software Engineer/7.0 Vue/7.2 Components/7.2.6 Attribute Inheritance.md",
     "Software Engineer/7.0 Vue/7.1 Boostrapping a Project/7.1.1 Create Vue.md",
     "Software Engineer/7.0 Vue/7.2 Components",
     "Software Engineer/2.0 Core Development/2.4 PHP/12 Frameworks/Livewire/desktop.ini",
     "Software Engineer/2.0 Core Development/2.4 PHP/12 Frameworks/desktop.ini",
-    "Software Engineer/2.0 Core Development/2.5 SQL/03 Data Definition Language/desktop.ini",
     "Software Engineer/6.0 Laravel/6.1 What is Laravel/6.1.2 Laravel for Full Stack.md",
     "Software Engineer/6.0 Laravel/6.1 What is Laravel/6.1.1 Why Web Frameworks.md",
     "Software Engineer/Roadmap SH.md",
-    "Software Engineer/2.0 Core Development/2.6 API Design/02 Diferent API Styles/02.2 Simple JSON APIs.md",
-    "Software Engineer/2.0 Core Development/2.6 API Design/02 Diferent API Styles/02.1 RESTful APIs.md"
+    "Software Engineer/2.0 Core Development/2.6 API Design/02 Diferent API Styles/02.2 Simple JSON APIs.md"
   ]
 }

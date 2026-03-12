@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineer/7.0 Vue/7.4 Directives/7.4.0 Directives.md",
+                "file": "Software Engineer/6.0 Laravel/6.6 Project Structure/6.6.6 Resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.4.0 Directives"
+              "title": "6.6.6 Resources"
             }
           }
         ]
@@ -172,8 +172,10 @@
   },
   "active": "e5bce1656cdb0e49",
   "lastOpenFiles": [
-    "Software Engineer/7.0 Vue/7.3 Templates/7.3.0 Templates.md",
     "Software Engineer/7.0 Vue/7.4 Directives/7.4.0 Directives.md",
+    "Software Engineer/7.0 Vue/7.2 Components/desktop.ini",
+    "desktop.ini",
+    "Software Engineer/7.0 Vue/7.3 Templates/7.3.0 Templates.md",
     "Software Engineer/7.0 Vue/7.4 Directives",
     "Software Engineer/6.0 Laravel/6.6 Project Structure/6.6.6 Resources.md",
     "Software Engineer/7.0 Vue/7.3 Templates",
@@ -203,10 +205,7 @@
     "Software Engineer/6.0 Laravel/6.4 Starter Kits/6.4.0 Starter Kits.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/02 Diferent API Styles/02.5 gRPC APIs.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/03 Building JSON RESTful APIs",
-    "Software Engineer/2.0 Core Development/2.6 API Design/02 Diferent API Styles/02.4 GraphQL APIs.md",
     "Software Engineer/6.0 Laravel/6.4 Starter Kits",
-    "Software Engineer/6.0 Laravel/6.3 Create a new project",
-    "Software Engineer/6.0 Laravel/6.2 Installing Laravel",
-    "Software Engineer/7.0 Vue/7.2 Components"
+    "Software Engineer/6.0 Laravel/6.3 Create a new project"
   ]
 }

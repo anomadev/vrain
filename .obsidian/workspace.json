@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineer/2.0 Core Development/2.6 API Design/03 Building JSON RESTful APIs/03.8 HATEOAS.md",
+                "file": "Software Engineer/2.0 Core Development/2.6 API Design/03 Building JSON RESTful APIs/03.9 Error Handling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03.8 HATEOAS"
+              "title": "03.9 Error Handling"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "e5bce1656cdb0e49",
   "lastOpenFiles": [
-    "Software Engineer/2.0 Core Development/2.6 API Design/03 Building JSON RESTful APIs/03.7 Idempotency.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/03 Building JSON RESTful APIs/03.8 HATEOAS.md",
+    "Software Engineer/2.0 Core Development/2.6 API Design/03 Building JSON RESTful APIs/03.9 Error Handling.md",
+    "Software Engineer/2.0 Core Development/2.6 API Design/03 Building JSON RESTful APIs/03.7 Idempotency.md",
     "Software Engineer/6.0 Laravel/6.7 Routing & Controllers/6.7.01 Basic Routes.md",
     "Software Engineer/6.0 Laravel/6.6 Project Structure/6.6.10 Vendor.md",
     "Software Engineer/6.0 Laravel/6.7 Routing & Controllers",
@@ -203,7 +204,6 @@
     "Software Engineer/6.0 Laravel/6.6 Project Structure/6.6.2 Bootstrap",
     "Software Engineer/7.0 Vue/7.2 Components/7.2.5 v-model.md",
     "Software Engineer/6.0 Laravel/6.6 Project Structure/6.6.1 App Directory.md",
-    "Software Engineer/6.0 Laravel/6.5 Request-Response Flow/6.5.0 Request-Response Flow.md",
     "Software Engineer/6.0 Laravel/6.6 Project Structure",
     "Software Engineer/6.0 Laravel/6.5 Request-Response Flow",
     "Software Engineer/2.0 Core Development/2.6 API Design/03 Building JSON RESTful APIs",

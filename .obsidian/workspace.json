@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineer/6.0 Laravel/6.9 Databases & Eloquent/6.9.2 Eloquent ORM.md",
+                "file": "Software Engineer/2.0 Core Development/2.6 API Design/09 API Performance/09.3 Load Balancing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.9.2 Eloquent ORM"
+              "title": "09.3 Load Balancing"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "e5bce1656cdb0e49",
   "lastOpenFiles": [
-    "Software Engineer/6.0 Laravel/6.9 Databases & Eloquent/6.9.1 Configuration.md",
     "Software Engineer/6.0 Laravel/6.9 Databases & Eloquent/6.9.2 Eloquent ORM.md",
+    "Software Engineer/2.0 Core Development/2.6 API Design/09 API Performance/09.3 Load Balancing.md",
+    "Software Engineer/6.0 Laravel/6.9 Databases & Eloquent/6.9.1 Configuration.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/09 API Performance/09.2 Caching Strategies.md",
     "Software Engineer/6.0 Laravel/6.9 Databases & Eloquent",
     "Software Engineer/2.0 Core Development/2.6 API Design/09 API Performance/09.1 Performance Metrics.md",
@@ -203,7 +204,6 @@
     "Software Engineer/6.0 Laravel/6.7 Routing & Controllers/6.7.14 Dependency Injection.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/06 API Keys & Management",
     "Software Engineer/6.0 Laravel/6.7 Routing & Controllers/6.7.13 Single Action Controllers.md",
-    "Software Engineer/2.0 Core Development/2.4 PHP/01 Introduction to PHP/1.1 What is PHP.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/05 Authorization Methods",
     "Software Engineer/2.0 Core Development/2.6 API Design/04 Authentication Methods",
     "Software Engineer/6.0 Laravel/6.7 Routing & Controllers",

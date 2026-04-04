@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineer/2.0 Core Development/2.6 API Design/09 API Performance/09.4 Rate Limiting - Throttling.md",
+                "file": "Software Engineer/6.0 Laravel/6.9 Databases & Eloquent/6.9.3 CRUD Operations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09.4 Rate Limiting - Throttling"
+              "title": "6.9.3 CRUD Operations"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "e5bce1656cdb0e49",
   "lastOpenFiles": [
-    "Software Engineer/2.0 Core Development/2.6 API Design/09 API Performance/09.3 Load Balancing.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/09 API Performance/09.4 Rate Limiting - Throttling.md",
+    "Software Engineer/6.0 Laravel/6.9 Databases & Eloquent/6.9.3 CRUD Operations.md",
+    "Software Engineer/2.0 Core Development/2.6 API Design/09 API Performance/09.3 Load Balancing.md",
     "Software Engineer/6.0 Laravel/6.9 Databases & Eloquent/6.9.2 Eloquent ORM.md",
     "Software Engineer/6.0 Laravel/6.9 Databases & Eloquent/6.9.1 Configuration.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/09 API Performance/09.2 Caching Strategies.md",
@@ -202,7 +203,6 @@
     "Software Engineer/2.0 Core Development/2.6 API Design/07 API Documentation Tools/07.0 API Documentation Tools.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/06 API Keys & Management/06.0 API Keys & Management.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/07 API Documentation Tools",
-    "Software Engineer/6.0 Laravel/6.7 Routing & Controllers/6.7.14 Dependency Injection.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/06 API Keys & Management",
     "Software Engineer/2.0 Core Development/2.6 API Design/05 Authorization Methods",
     "Software Engineer/2.0 Core Development/2.6 API Design/04 Authentication Methods",

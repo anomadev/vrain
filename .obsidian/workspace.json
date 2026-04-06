@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineer/6.0 Laravel/6.9 Databases & Eloquent/6.9.6 Query Scopes.md",
+                "file": "Software Engineer/6.0 Laravel/6.9 Databases & Eloquent/6.9.7 Query Builder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.9.6 Query Scopes"
+              "title": "6.9.7 Query Builder"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "e5bce1656cdb0e49",
   "lastOpenFiles": [
-    "Software Engineer/2.0 Core Development/2.6 API Design/09 API Performance/09.7 Error Handling - Retries.md",
     "Software Engineer/6.0 Laravel/6.9 Databases & Eloquent/6.9.6 Query Scopes.md",
+    "Software Engineer/6.0 Laravel/6.9 Databases & Eloquent/6.9.7 Query Builder.md",
+    "Software Engineer/2.0 Core Development/2.6 API Design/09 API Performance/09.7 Error Handling - Retries.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/09 API Performance/09.6 Performance Testing.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/09 API Performance/09.5 Profiling and Monitoring.md",
     "Software Engineer/6.0 Laravel/6.9 Databases & Eloquent/6.9.5 Casts and Accessors.md",
@@ -200,7 +201,6 @@
     "Software Engineer/6.0 Laravel/6.8 Views & Blade/6.8.3 Blade Directives.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/07 API Documentation Tools/07.3 Stoplight.md",
     "Software Engineer/6.0 Laravel/6.8 Views & Blade/6.8.2 Displaying Data.md",
-    "Software Engineer/6.0 Laravel/6.8 Views & Blade/6.8.1 Blade Templating.md",
     "Software Engineer/6.0 Laravel/6.8 Views & Blade",
     "Software Engineer/2.0 Core Development/2.6 API Design/07 API Documentation Tools",
     "Software Engineer/2.0 Core Development/2.6 API Design/06 API Keys & Management",

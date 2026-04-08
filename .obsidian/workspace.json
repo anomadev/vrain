@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "706a6d89b8dfec5a",
+        "id": "7f419c815018d14e",
         "type": "tabs",
         "children": [
           {
-            "id": "e5bce1656cdb0e49",
+            "id": "f247401476da821e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineer/2.0 Core Development/2.6 API Design/10 Integration Patterns/API Gateways.md",
+                "file": "Software Engineer/6.0 Laravel/6.10 Requests & Responses/6.10.01 Retrieving Data and Files.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "API Gateways"
+              "title": "6.10.01 Retrieving Data and Files"
             }
           }
         ]
@@ -170,10 +170,12 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "e5bce1656cdb0e49",
+  "active": "f247401476da821e",
   "lastOpenFiles": [
-    "Software Engineer/2.0 Core Development/2.6 API Design/10 Integration Patterns/10.2 Event-Driven Architecture.md",
+    "Software Engineer/6.0 Laravel/6.10 Requests & Responses/6.10.01 Retrieving Data and Files.md",
+    "Software Engineer/6.0 Laravel/6.10 Requests & Responses",
     "Software Engineer/2.0 Core Development/2.6 API Design/10 Integration Patterns/API Gateways.md",
+    "Software Engineer/2.0 Core Development/2.6 API Design/10 Integration Patterns/10.2 Event-Driven Architecture.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/10 Integration Patterns/10.1 Synchronous vs Asynchronous APIs.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/10 Integration Patterns/10.0 API Integration Patterns.md",
     "Software Engineer/6.0 Laravel/6.9 Databases & Eloquent/6.9.9 Pagination.md",
@@ -200,13 +202,11 @@
     "Software Engineer/6.0 Laravel/6.8 Views & Blade/6.8.6 Components.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/08 API Security/08.2 Best Practices.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/08 API Security/08.1 Common Vulnerabilities.md",
-    "Software Engineer/2.0 Core Development/2.6 API Design/08 API Security/08.0 API Security.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/08 API Security",
     "Software Engineer/6.0 Laravel/6.8 Views & Blade",
     "Software Engineer/2.0 Core Development/2.6 API Design/07 API Documentation Tools",
     "Software Engineer/2.0 Core Development/2.6 API Design/06 API Keys & Management",
     "Software Engineer/2.0 Core Development/2.6 API Design/05 Authorization Methods",
-    "Software Engineer/2.0 Core Development/2.6 API Design/04 Authentication Methods",
-    "Software Engineer/6.0 Laravel/6.7 Routing & Controllers"
+    "Software Engineer/2.0 Core Development/2.6 API Design/04 Authentication Methods"
   ]
 }

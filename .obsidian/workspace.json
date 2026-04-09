@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineer/6.0 Laravel/6.10 Requests & Responses/6.10.01 Retrieving Data and Files.md",
+                "file": "Software Engineer/6.0 Laravel/6.10 Requests & Responses/6.10.02 Creating Responses.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.10.01 Retrieving Data and Files"
+              "title": "6.10.02 Creating Responses"
             }
           }
         ]
@@ -173,6 +173,7 @@
   "active": "f247401476da821e",
   "lastOpenFiles": [
     "Software Engineer/6.0 Laravel/6.10 Requests & Responses/6.10.01 Retrieving Data and Files.md",
+    "Software Engineer/6.0 Laravel/6.10 Requests & Responses/6.10.02 Creating Responses.md",
     "Software Engineer/6.0 Laravel/6.10 Requests & Responses",
     "Software Engineer/2.0 Core Development/2.6 API Design/10 Integration Patterns/API Gateways.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/10 Integration Patterns/10.2 Event-Driven Architecture.md",
@@ -201,7 +202,6 @@
     "Software Engineer/6.0 Laravel/6.8 Views & Blade/6.8.7 Layouts.md",
     "Software Engineer/6.0 Laravel/6.8 Views & Blade/6.8.6 Components.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/08 API Security/08.2 Best Practices.md",
-    "Software Engineer/2.0 Core Development/2.6 API Design/08 API Security/08.1 Common Vulnerabilities.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/08 API Security",
     "Software Engineer/6.0 Laravel/6.8 Views & Blade",
     "Software Engineer/2.0 Core Development/2.6 API Design/07 API Documentation Tools",

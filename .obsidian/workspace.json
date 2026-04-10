@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineer/2.0 Core Development/2.6 API Design/10 Integration Patterns/10.6 Batch Processing.md",
+                "file": "Software Engineer/2.0 Core Development/2.6 API Design/10 Integration Patterns/10.7 Messaging Queues.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.6 Batch Processing"
+              "title": "10.7 Messaging Queues"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "f247401476da821e",
   "lastOpenFiles": [
-    "Software Engineer/2.0 Core Development/2.6 API Design/10 Integration Patterns/10.5 Webhooks vs Polling.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/10 Integration Patterns/10.6 Batch Processing.md",
+    "Software Engineer/2.0 Core Development/2.6 API Design/10 Integration Patterns/10.7 Messaging Queues.md",
+    "Software Engineer/2.0 Core Development/2.6 API Design/10 Integration Patterns/10.5 Webhooks vs Polling.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/10 Integration Patterns/10.4 Microservices Architecture.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/10 Integration Patterns/10.3 API Gateways.md",
     "Software Engineer/6.0 Laravel/6.10 Requests & Responses/6.10.04 Creating Responses - Files.md",
@@ -199,7 +200,6 @@
     "Software Engineer/2.0 Core Development/2.6 API Design/09 API Performance/09.3 Load Balancing.md",
     "Software Engineer/6.0 Laravel/6.9 Databases & Eloquent/6.9.2 Eloquent ORM.md",
     "Software Engineer/6.0 Laravel/6.9 Databases & Eloquent/6.9.1 Configuration.md",
-    "Software Engineer/2.0 Core Development/2.6 API Design/09 API Performance/09.2 Caching Strategies.md",
     "Software Engineer/6.0 Laravel/6.9 Databases & Eloquent",
     "Software Engineer/2.0 Core Development/2.6 API Design/09 API Performance",
     "Software Engineer/2.0 Core Development/2.6 API Design/08 API Security",

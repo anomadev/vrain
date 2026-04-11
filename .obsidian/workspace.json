@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineer/2.0 Core Development/2.6 API Design/10 Integration Patterns/10.9 Messaging Queues - Kafka.md",
+                "file": "Software Engineer/2.0 Core Development/2.6 API Design/11 Testing/11.0 API Testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.9 Messaging Queues - Kafka"
+              "title": "11.0 API Testing"
             }
           }
         ]
@@ -172,8 +172,10 @@
   },
   "active": "f247401476da821e",
   "lastOpenFiles": [
-    "Software Engineer/2.0 Core Development/2.6 API Design/10 Integration Patterns/10.8 Messaging Queues - Rabbit MQ.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/10 Integration Patterns/10.9 Messaging Queues - Kafka.md",
+    "Software Engineer/2.0 Core Development/2.6 API Design/11 Testing/11.0 API Testing.md",
+    "Software Engineer/2.0 Core Development/2.6 API Design/11 Testing",
+    "Software Engineer/2.0 Core Development/2.6 API Design/10 Integration Patterns/10.8 Messaging Queues - Rabbit MQ.md",
     "Software Engineer/6.0 Laravel/6.10 Requests & Responses/6.10.08 Validation - Forms.md",
     "Software Engineer/6.0 Laravel/6.10 Requests & Responses/6.10.07 Creating Response - Streamed Responses.md",
     "Software Engineer/6.0 Laravel/6.10 Requests & Responses/6.10.06 Creating Responses - JSON.md",
@@ -199,14 +201,12 @@
     "Software Engineer/2.0 Core Development/2.6 API Design/09 API Performance/09.7 Error Handling - Retries.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/09 API Performance/09.6 Performance Testing.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/09 API Performance/09.5 Profiling and Monitoring.md",
-    "Software Engineer/6.0 Laravel/6.9 Databases & Eloquent/6.9.5 Casts and Accessors.md",
     "Software Engineer/6.0 Laravel/6.9 Databases & Eloquent",
     "Software Engineer/2.0 Core Development/2.6 API Design/09 API Performance",
     "Software Engineer/2.0 Core Development/2.6 API Design/08 API Security",
     "Software Engineer/6.0 Laravel/6.8 Views & Blade",
     "Software Engineer/2.0 Core Development/2.6 API Design/07 API Documentation Tools",
     "Software Engineer/2.0 Core Development/2.6 API Design/06 API Keys & Management",
-    "Software Engineer/2.0 Core Development/2.6 API Design/05 Authorization Methods",
-    "Software Engineer/2.0 Core Development/2.6 API Design/04 Authentication Methods"
+    "Software Engineer/2.0 Core Development/2.6 API Design/05 Authorization Methods"
   ]
 }

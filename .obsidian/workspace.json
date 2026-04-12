@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineer/6.0 Laravel/6.10 Requests & Responses/6.10.11 Authentication.md",
+                "file": "Software Engineer/6.0 Laravel/6.10 Requests & Responses/6.10.12 Authentication - With Starter Kits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.10.11 Authentication"
+              "title": "6.10.12 Authentication - With Starter Kits"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "f247401476da821e",
   "lastOpenFiles": [
-    "Software Engineer/6.0 Laravel/6.10 Requests & Responses/6.10.10 Validation - Error Messages.md",
     "Software Engineer/6.0 Laravel/6.10 Requests & Responses/6.10.11 Authentication.md",
+    "Software Engineer/6.0 Laravel/6.10 Requests & Responses/6.10.12 Authentication - With Starter Kits.md",
+    "Software Engineer/6.0 Laravel/6.10 Requests & Responses/6.10.10 Validation - Error Messages.md",
     "Software Engineer/6.0 Laravel/6.10 Requests & Responses/6.10.09 Validation - Manual Validation.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/11 Testing/11.1 Unit Testing.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/11 Testing/11.0 API Testing.md",
@@ -200,7 +201,6 @@
     "Software Engineer/6.0 Laravel/6.9 Databases & Eloquent/6.9.9 Pagination.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/10 Integration Patterns",
     "Software Engineer/6.0 Laravel/6.9 Databases & Eloquent/6.9.8 Migrations & Seeders.md",
-    "Software Engineer/6.0 Laravel/6.9 Databases & Eloquent/6.9.7 Query Builder.md",
     "Software Engineer/6.0 Laravel/6.9 Databases & Eloquent",
     "Software Engineer/2.0 Core Development/2.6 API Design/09 API Performance",
     "Software Engineer/2.0 Core Development/2.6 API Design/08 API Security",

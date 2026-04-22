@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineer/2.0 Core Development/2.6 API Design/11 Testing/11.5 Mocking APIs.md",
+                "file": "Software Engineer/2.0 Core Development/2.6 API Design/11 Testing/11.6 Contract Testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11.5 Mocking APIs"
+              "title": "11.6 Contract Testing"
             }
           }
         ]
@@ -172,8 +172,10 @@
   },
   "active": "f247401476da821e",
   "lastOpenFiles": [
-    "Software Engineer/2.0 Core Development/2.6 API Design/11 Testing/11.4 Load Testing.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/11 Testing/11.5 Mocking APIs.md",
+    "Software Engineer/2.0 Core Development/2.6 API Design/11 Testing/11.6 Contract Testing.md",
+    "Software Engineer/6.0 Laravel/6.10 Requests & Responses/6.10.13 Authentication - Manual Authentication.md",
+    "Software Engineer/2.0 Core Development/2.6 API Design/11 Testing/11.4 Load Testing.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/11 Testing/11.3 Functional Testing.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/11 Testing/11.2 Integration Testing.md",
     "Software Engineer/6.0 Laravel/6.10 Requests & Responses/6.10.12 Authentication - With Starter Kits.md",
@@ -197,9 +199,7 @@
     "Software Engineer/6.0 Laravel/6.10 Requests & Responses/6.10.04 Creating Responses - Files.md",
     "Software Engineer/6.0 Laravel/6.10 Requests & Responses/6.10.03 Creating Responses - Views.md",
     "Software Engineer/6.0 Laravel/6.10 Requests & Responses/6.10.02 Creating Responses.md",
-    "Software Engineer/6.0 Laravel/6.10 Requests & Responses/6.10.01 Retrieving Data and Files.md",
     "Software Engineer/6.0 Laravel/6.10 Requests & Responses",
-    "Software Engineer/2.0 Core Development/2.6 API Design/10 Integration Patterns/10.2 Event-Driven Architecture.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/10 Integration Patterns",
     "Software Engineer/6.0 Laravel/6.9 Databases & Eloquent",
     "Software Engineer/2.0 Core Development/2.6 API Design/09 API Performance",

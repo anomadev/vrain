@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineer/2.0 Core Development/2.6 API Design/14 Standards and Compliance/14.4 HIPAA.md",
+                "file": "Software Engineer/2.0 Core Development/2.6 API Design/14 Standards and Compliance/14.5 PII.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14.4 HIPAA"
+              "title": "14.5 PII"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "f247401476da821e",
   "lastOpenFiles": [
-    "Software Engineer/2.0 Core Development/2.6 API Design/14 Standards and Compliance/14.3 PCI DSS.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/14 Standards and Compliance/14.4 HIPAA.md",
+    "Software Engineer/2.0 Core Development/2.6 API Design/14 Standards and Compliance/14.5 PII.md",
+    "Software Engineer/2.0 Core Development/2.6 API Design/14 Standards and Compliance/14.3 PCI DSS.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/13 API Lifecycle Management/desktop.ini",
     "Software Engineer/2.0 Core Development/2.6 API Design/14 Standards and Compliance/14.2 CCPA.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/14 Standards and Compliance/14.1 GDPR.md",
@@ -202,7 +203,6 @@
     "Software Engineer/2.0 Core Development/2.6 API Design/10 Integration Patterns/10.8 Messaging Queues - Rabbit MQ.md",
     "Software Engineer/6.0 Laravel/6.10 Requests & Responses/6.10.08 Validation - Forms.md",
     "Software Engineer/6.0 Laravel/6.10 Requests & Responses/6.10.07 Creating Response - Streamed Responses.md",
-    "Software Engineer/6.0 Laravel/6.10 Requests & Responses/6.10.06 Creating Responses - JSON.md",
     "Software Engineer/6.0 Laravel/6.10 Requests & Responses",
     "Software Engineer/2.0 Core Development/2.6 API Design/10 Integration Patterns",
     "Software Engineer/6.0 Laravel/6.9 Databases & Eloquent",

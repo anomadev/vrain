@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineer/6.0 Laravel/6.11 Logging & Debugging/16.4 Telescope.md",
+                "file": "Software Engineer/6.0 Laravel/6.11 Logging & Debugging/16.5 Debugbar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16.4 Telescope"
+              "title": "16.5 Debugbar"
             }
           }
         ]
@@ -171,8 +171,9 @@
   },
   "active": "f247401476da821e",
   "lastOpenFiles": [
-    "Software Engineer/6.0 Laravel/6.11 Logging & Debugging/16.3 Debugging basics.md",
     "Software Engineer/6.0 Laravel/6.11 Logging & Debugging/16.4 Telescope.md",
+    "Software Engineer/6.0 Laravel/6.11 Logging & Debugging/16.5 Debugbar.md",
+    "Software Engineer/6.0 Laravel/6.11 Logging & Debugging/16.3 Debugging basics.md",
     "Software Engineer/7.0 Vue/7.3 Templates/desktop.ini",
     "Software Engineer/6.0 Laravel/6.6 Project Structure/desktop.ini",
     "Software Engineer/6.0 Laravel/6.11 Logging & Debugging/16.2 Log Stacks & Messages.md",
@@ -203,7 +204,6 @@
     "Software Engineer/2.0 Core Development/2.6 API Design/11 Testing/11.5 Mocking APIs.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/11 Testing/11.4 Load Testing.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/11 Testing/11.3 Functional Testing.md",
-    "Software Engineer/2.0 Core Development/2.6 API Design/11 Testing/11.2 Integration Testing.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/11 Testing",
     "Software Engineer/6.0 Laravel/6.10 Requests & Responses",
     "Software Engineer/2.0 Core Development/2.6 API Design/10 Integration Patterns"

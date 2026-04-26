@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineer/6.0 Laravel/6.11 Logging & Debugging/16.1 Logging Basics.md",
+                "file": "Software Engineer/6.0 Laravel/6.11 Logging & Debugging/16.2 Log Stacks & Messages.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16.1 Logging Basics"
+              "title": "16.2 Log Stacks & Messages"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "f247401476da821e",
   "lastOpenFiles": [
-    "Software Engineer/6.0 Laravel/6.10 Requests & Responses/6.10.19 Encryption & Hashing.md",
     "Software Engineer/6.0 Laravel/6.11 Logging & Debugging/16.1 Logging Basics.md",
+    "Software Engineer/6.0 Laravel/6.11 Logging & Debugging/16.2 Log Stacks & Messages.md",
+    "Software Engineer/6.0 Laravel/6.10 Requests & Responses/6.10.19 Encryption & Hashing.md",
     "Software Engineer/6.0 Laravel/6.11 Logging & Debugging",
     "Software Engineer/6.0 Laravel/6.10 Requests & Responses/6.10.18 Authorization - Policies.md",
     "Software Engineer/6.0 Laravel/6.10 Requests & Responses/6.10.17 Authorization - Gates.md",
@@ -202,7 +203,6 @@
     "Software Engineer/2.0 Core Development/2.6 API Design/11 Testing/11.2 Integration Testing.md",
     "Software Engineer/6.0 Laravel/6.10 Requests & Responses/6.10.12 Authentication - With Starter Kits.md",
     "Software Engineer/6.0 Laravel/6.10 Requests & Responses/6.10.11 Authentication.md",
-    "Software Engineer/6.0 Laravel/6.10 Requests & Responses/6.10.10 Validation - Error Messages.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/11 Testing",
     "Software Engineer/6.0 Laravel/6.10 Requests & Responses",
     "Software Engineer/2.0 Core Development/2.6 API Design/10 Integration Patterns",

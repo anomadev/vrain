@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineer/6.0 Laravel/6.11 Logging & Debugging/6.11.7 Message Customization.md",
+                "file": "Software Engineer/6.0 Laravel/6.11 Logging & Debugging/6.11.8 Handling Exceptions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.11.7 Message Customization"
+              "title": "6.11.8 Handling Exceptions"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "right": {
     "id": "7a18b1f142eed1ce",
@@ -171,13 +172,14 @@
   },
   "active": "f247401476da821e",
   "lastOpenFiles": [
+    "Software Engineer/6.0 Laravel/6.11 Logging & Debugging/6.11.7 Message Customization.md",
+    "Software Engineer/6.0 Laravel/6.11 Logging & Debugging/6.11.8 Handling Exceptions.md",
     "Software Engineer/6.0 Laravel/6.11 Logging & Debugging/6.11.6 HTTP Exceptions.md",
     "Software Engineer/6.0 Laravel/6.11 Logging & Debugging/6.11.5 Debugbar.md",
     "Software Engineer/6.0 Laravel/6.11 Logging & Debugging/6.11.4 Telescope.md",
     "Software Engineer/6.0 Laravel/6.11 Logging & Debugging/6.11.3 Debugging basics.md",
     "Software Engineer/6.0 Laravel/6.11 Logging & Debugging/6.11.2 Log Stacks & Messages.md",
     "Software Engineer/6.0 Laravel/6.11 Logging & Debugging/6.11.1 Logging Basics.md",
-    "Software Engineer/6.0 Laravel/6.11 Logging & Debugging/6.11.7 Message Customization.md",
     "Software Engineer/7.0 Vue/7.3 Templates/desktop.ini",
     "Software Engineer/6.0 Laravel/6.6 Project Structure/desktop.ini",
     "Software Engineer/6.0 Laravel/6.10 Requests & Responses/6.10.19 Encryption & Hashing.md",
@@ -203,7 +205,6 @@
     "Software Engineer/2.0 Core Development/2.6 API Design/12 Real Time APIs/12.0 Real-Time APIs.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/11 Testing/11.6 Contract Testing.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/12 Real Time APIs",
-    "Software Engineer/2.0 Core Development/2.6 API Design/11 Testing/11.5 Mocking APIs.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/11 Testing",
     "Software Engineer/6.0 Laravel/6.10 Requests & Responses",
     "Software Engineer/2.0 Core Development/2.6 API Design/10 Integration Patterns"

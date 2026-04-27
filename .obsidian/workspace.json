@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineer/6.0 Laravel/6.12 Testing/6.12.1 Unit & Feature Testing.md",
+                "file": "Software Engineer/6.0 Laravel/6.12 Testing/6.12.2 Pest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.12.1 Unit & Feature Testing"
+              "title": "6.12.2 Pest"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "f247401476da821e",
   "lastOpenFiles": [
-    "Software Engineer/6.0 Laravel/6.11 Logging & Debugging/6.11.8 Handling Exceptions.md",
     "Software Engineer/6.0 Laravel/6.12 Testing/6.12.1 Unit & Feature Testing.md",
+    "Software Engineer/6.0 Laravel/6.12 Testing/6.12.2 Pest.md",
+    "Software Engineer/6.0 Laravel/6.11 Logging & Debugging/6.11.8 Handling Exceptions.md",
     "Software Engineer/6.0 Laravel/6.12 Testing",
     "Software Engineer/6.0 Laravel/6.11 Logging & Debugging/6.11.7 Message Customization.md",
     "Software Engineer/6.0 Laravel/6.11 Logging & Debugging/6.11.6 HTTP Exceptions.md",
@@ -204,7 +205,6 @@
     "Software Engineer/2.0 Core Development/2.6 API Design/13 API Lifecycle Management",
     "Software Engineer/2.0 Core Development/2.6 API Design/12 Real Time APIs/12.3 Server Sent Events.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/12 Real Time APIs/12.1 Web Sockets.md",
-    "Software Engineer/2.0 Core Development/2.6 API Design/12 Real Time APIs/12.0 Real-Time APIs.md",
     "Software Engineer/2.0 Core Development/2.6 API Design/12 Real Time APIs",
     "Software Engineer/2.0 Core Development/2.6 API Design/11 Testing",
     "Software Engineer/6.0 Laravel/6.10 Requests & Responses"

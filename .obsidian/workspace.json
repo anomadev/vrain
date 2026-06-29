@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineer/6.0 Laravel/6.16 Laravel Cloud/6.16.03 Roles & Permissions.md",
+                "file": "Software Engineer/6.0 Laravel/6.16 Laravel Cloud/6.16.04 Applications.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.16.03 Roles & Permissions"
+              "title": "6.16.04 Applications"
             }
           }
         ]
@@ -172,10 +172,21 @@
   },
   "active": "f247401476da821e",
   "lastOpenFiles": [
-    "Software Engineer/6.0 Laravel/6.16 Laravel Cloud/6.16.02 Basics - Organizations.md",
+    "Software Engineer/6.0 Laravel/6.16 Laravel Cloud/desktop.ini",
+    "Software Engineer/6.0 Laravel/6.15 Tools and Packages/desktop.ini",
+    "Software Engineer/6.0 Laravel/6.14 Deployment/desktop.ini",
+    "Software Engineer/6.0 Laravel/6.13 Advanced Features/desktop.ini",
+    "Software Engineer/6.0 Laravel/6.11 Logging & Debugging/desktop.ini",
+    "Software Engineer/2.0 Core Development/2.6 API Design/14 Standards and Compliance/desktop.ini",
+    "Software Engineer/2.0 Core Development/2.6 API Design/12 Real Time APIs/desktop.ini",
+    "Software Engineer/2.0 Core Development/2.6 API Design/11 Testing/desktop.ini",
+    "Software Engineer/6.0 Laravel/6.10 Requests & Responses/desktop.ini",
+    "Software Engineer/2.0 Core Development/2.6 API Design/08 API Security/desktop.ini",
+    "Software Engineer/2.0 Core Development/2.6 API Design/04 Authentication Methods/desktop.ini",
     "Software Engineer/6.0 Laravel/6.16 Laravel Cloud/6.16.03 Roles & Permissions.md",
+    "Software Engineer/6.0 Laravel/6.16 Laravel Cloud/6.16.04 Applications.md",
+    "Software Engineer/6.0 Laravel/6.16 Laravel Cloud/6.16.02 Basics - Organizations.md",
     "Software Engineer/6.0 Laravel/6.16 Laravel Cloud/6.16.01 Introduction.md",
-    "Software Engineer/6.0 Laravel/6.16 Laravel Cloud",
     "Software Engineer/6.0 Laravel/6.14 Deployment/6.14.4 Laravel Cloud.md",
     "Software Engineer/6.0 Laravel/6.15 Tools and Packages/6.15.1 Artisan (CLIs).md",
     "Software Engineer/6.0 Laravel/6.15 Tools and Packages/6.15.2 Sail (CLIs).md",
@@ -183,14 +194,11 @@
     "Software Engineer/6.0 Laravel/6.15 Tools and Packages/6.15.4 Octane (Performance).md",
     "Software Engineer/6.0 Laravel/6.15 Tools and Packages/6.15.5 Pulse (Monitoring).md",
     "Software Engineer/6.0 Laravel/6.14 Deployment/6.14.5 Laravel Forge.md",
-    "Software Engineer/6.0 Laravel/6.15 Tools and Packages",
     "Software Engineer/Roadmap SH.md",
     "Software Engineer/6.0 Laravel/6.14 Deployment/6.14.2 Optimization.md",
     "Software Engineer/6.0 Laravel/6.14 Deployment/6.14.1 Configuration.md",
     "Software Engineer/6.0 Laravel/6.14 Deployment/6.14.3 Health Route.md",
-    "Software Engineer/6.0 Laravel/6.14 Deployment/Sin nombre",
     "Software Engineer/6.0 Laravel/6.13 Advanced Features/6.13.8 Package Management.md",
-    "Software Engineer/6.0 Laravel/6.14 Deployment",
     "Software Engineer/6.0 Laravel/6.13 Advanced Features/6.13.7 Facades.md",
     "Software Engineer/6.0 Laravel/6.13 Advanced Features/6.13.6 Localization.md",
     "Software Engineer/6.0 Laravel/6.13 Advanced Features/6.13.5 File Storage.md",
@@ -199,14 +207,6 @@
     "Software Engineer/6.0 Laravel/6.13 Advanced Features/6.13.2 Events & Listeners.md",
     "Software Engineer/6.0 Laravel/6.13 Advanced Features/6.13.1 Queues & Jobs.md",
     "Software Engineer/6.0 Laravel/6.12 Testing/6.12.3 PHPUnit.md",
-    "Software Engineer/6.0 Laravel/6.13 Advanced Features/Sin nombre",
-    "Software Engineer/6.0 Laravel/6.13 Advanced Features",
-    "Software Engineer/6.0 Laravel/6.12 Testing/6.12.1 Unit & Feature Testing.md",
-    "Software Engineer/6.0 Laravel/6.12 Testing/6.12.2 Pest.md",
-    "Software Engineer/6.0 Laravel/6.11 Logging & Debugging/6.11.8 Handling Exceptions.md",
-    "Software Engineer/6.0 Laravel/6.12 Testing",
-    "Software Engineer/7.0 Vue/7.3 Templates/desktop.ini",
-    "Software Engineer/6.0 Laravel/6.6 Project Structure/desktop.ini",
-    "Software Engineer/6.0 Laravel/6.11 Logging & Debugging"
+    "Software Engineer/6.0 Laravel/6.12 Testing/6.12.1 Unit & Feature Testing.md"
   ]
 }
